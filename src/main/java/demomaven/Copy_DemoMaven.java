@@ -3,6 +3,7 @@ package demomaven;
 public class Copy_DemoMaven {
 
 	public static void main(String[] args) {
+		System.out.println("");
 		int k;
 	}
 	
