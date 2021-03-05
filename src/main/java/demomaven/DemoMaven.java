@@ -3,8 +3,19 @@ package demomaven;
 public class DemoMaven {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		int k;
+	}
+	
+	public boolean unusedMethod(boolean k) {
+		k = true;
+		
+        
+		return k;
+	}
+	
+	public boolean unusedMethod2(boolean k) {
+		boolean p=true;
+		return p;
 	}
 
 }
